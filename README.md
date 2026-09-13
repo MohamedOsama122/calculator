@@ -11,3 +11,7 @@ A simple C# Console Calculator built with basic arithmetic operations and input 
 1. `feature/basic-calculator`: Initialized project and basic standard calculator operations.
 2. `feature/input-validation`: Added continuous loop execution and handled division by zero.
 3. `docs/update-readme`: Added comprehensive project documentation.
+
+
+
+https://github.com/MohamedOsama122/calculator/blob/docs/update-readme/Screenshot%202026-09-13%20135626.png
